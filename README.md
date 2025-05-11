@@ -1,2 +1,2 @@
 # tictactoe
-basic tic tac toe project using css,html,JS
+A BASIC Full-Stack Tic-Tac-Toe Game built with HTML, CSS, JavaScript, and Node.js.
